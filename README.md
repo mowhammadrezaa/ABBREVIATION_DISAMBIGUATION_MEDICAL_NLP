@@ -19,7 +19,7 @@ This project demonstrates methodologies for tackling Abbreviation Disambiguation
 - **Dependencies**: All necessary dependencies will be installed when you run all the cells in the notebook.
 
 ## License
-This project is released under the least restrictive license among MIT, Apache, and GNU GPL.
+This project is released under MIT.
 
 ## Acknowledgments
 We would like to express our gratitude to the following individuals who have contributed to this project:
